@@ -33,5 +33,6 @@ Problem Statements -
 
 🚚📊 Shipping Preference Overview: Understanding our customers' favored shipping methods. 
 
-Kaggle - https://lnkd.in/dwYR8RZQ
+Kaggle - https://lnkd.in/dwYR8RZQ 
+
 Linkedin - https://www.linkedin.com/posts/md-sharique-salim-a25539209_customerinsights-locationtrends-genderanalytics-activity-7128424599741939713-b5VA?utm_source=share&utm_medium=member_desktop
